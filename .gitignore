@@ -31,3 +31,24 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Logs
+*.log
+
+# Dependency cache
+.mvn/
+mvnw
+mvnw.cmd
+
+# Application secrets (VERY important)
+application.properties
+application.yml
+.env
+
+# Binaries
+*.jar
+*.war
+
+# Java build output
+*.class
+
